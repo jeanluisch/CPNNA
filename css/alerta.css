@@ -1,0 +1,12 @@
+#cii{
+	display: none;
+	width: 300px;
+	padding: 2px;
+    background-color: transparent;
+	text-align: left;
+    border-radius: 3px 3px;
+    color: #FF0000;
+    font-family: Tahoma, arial, verdana;
+    font-size: 15px;
+
+}
