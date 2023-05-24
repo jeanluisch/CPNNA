@@ -5,7 +5,7 @@ Aquí en GitHub, comparto algunos de mis proyectos personales que he desarrollad
 Aunque reconozco que aún tengo mucho por aprender y mejorar en términos de mejores prácticas de programación, estoy comprometido con el crecimiento continuo y estoy abierto a recibir comentarios y sugerencias constructivas. 
 En general, mi objetivo en GitHub es mostrar mi progreso como programador, compartir mis proyectos y estar abierto a colaboraciones y oportunidades de aprendizaje. Estoy entusiasmado por formar parte de la comunidad de desarrolladores y estoy dispuesto a recibir retroalimentación para mejorar mis habilidades
 
-
+---
 
 El presente proyecto es un sistema de Emisión de Autorizaciones de Viajes y Permisos de trabajo para Menores 
 
